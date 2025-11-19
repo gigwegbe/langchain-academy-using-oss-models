@@ -11,3 +11,13 @@ Supported Inference Engines:
 - SGLang 
 
 For the development environment and package management, I recommend using uv. It has a bit of a learning curve, but it’s proving to be more efficient and reliable than pip.
+ 
+
+Programs: 
+- [] Quickstart: LangChain Essentials - Python
+- [] Quickstart: LangGraph Essential - Python 
+- [] Quickstart: LangSmith Essentials
+- [] Project: Deep Agents with LangGraph 
+- [] Project: Ambient Agent with LangGraph 
+- [] Foundation: Introduction to Agent Observability & Evaluations 
+- [] Project: Deep Research with LangGraph 
