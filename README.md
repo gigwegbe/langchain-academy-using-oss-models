@@ -28,3 +28,4 @@ Programs:
 - [uv Cheatsheet and Hands-on Guide for Python Devs](https://blog.dailydoseofds.com/p/uv-cheatsheet-and-hands-on-guide)
 - [uv cheatsheet](https://www.brandonrohrer.com/uv_cheatsheet)
 - [uv cheatsheet](https://mathspp.com/blog/uv-cheatsheet)
+- [Build Your Own GPT-OSS Powered RAG App with vLLM and LangChain](https://www.davitmartirosyan.dev/Build-Your-Own-GPT-OSS-Powered-RAG-App-with-vLLM-and-LangChain-2a5bee6228ef80feb174c847f849303f)
