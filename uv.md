@@ -72,8 +72,38 @@ drwxr-xr-x@ 9 george  staff     288 Nov 20 12:49 .venv
 -rw-r--r--@ 1 george  staff  636933 Nov 20 12:48 uv.lock
 george@Georges-MacBook-Pro quickstart-langchain-essentials % 
 ```
-To activate it(For old timers who don't learn new tricks 👴👵): 
+- To activate it(For old timers who don't learn new tricks 👴👵): 
 ```
 george@Georges-MacBook-Pro quickstart-langchain-essentials % source .venv/bin/activate
 (quickstart-langchain-essentials) george@Georges-MacBook-Pro quickstart-langchain-essentials % 
+```
+
+- To see the dependencies: 
+```
+(quickstart-langchain-essentials) george@Georges-MacBook-Pro langchain-academy-using-oss-models % uv pip  list 
+Using Python 3.11.6 environment at: quickstart-langchain-essentials/.venv
+Package                                  Version
+---------------------------------------- -----------
+aiohappyeyeballs                         2.6.1
+aiohttp                                  3.13.2
+aiosignal                                1.4.0
+annotated-types                          0.7.0
+anthropic                                0.74.1
+anyio                                    4.11.0
+appnope                                  0.1.4
+argon2-cffi                              25.1.0
+argon2-cffi-bindings                     25.1.0
+arrow                                    1.4.0
+asttokens                                3.0.1
+async-lru                                2.0.5
+attrs                                    25.4.0
+babel                                    2.17.0
+beautifulsoup4                           4.14.2
+bleach                                   6.3.0
+blockbuster                              1.5.25
+certifi                                  2025.11.12
+cffi                                     2.0.0
+charset-normalizer                       3.4.4
+click                                    8.3.1
+cloudpickle                              3.1.2
 ```
