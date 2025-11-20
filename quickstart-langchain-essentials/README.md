@@ -42,13 +42,15 @@ cp example.env .env
 
 Insert API keys directly into .env file, OpenAI (required) and [LangSmith](#getting-started-with-langsmith) (optional)
 
+Ollama environment variables: 
 ```bash
 # Add OpenAI API key
-OPENAI_API_KEY=your_openai_api_key_here
-# The course is written with OpenAI models, but you can choose others if you prefer. 
-# Be sure to add the key and modify the code to call your preferred model
-#ANTHROPIC_API_KEY=your_anthropic_api_key_here_if_you_prefer
-
+# OPENAI_API_KEY=your_openai_api_key_here
+OSS_MODEL="gpt-oss:20b"
+OLLAMA_BASE_URL="http://localhost:11434"
+```
+Others: 
+```bash
 # Optional API key for LangSmith tracing
 LANGSMITH_API_KEY=your_langsmith_api_key_here
 LANGSMITH_TRACING=true
