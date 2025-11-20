@@ -5,7 +5,7 @@ Supported Model Models:
 - OpenAI GPT-OSS 20B
 - Qwen series Models
 
-Supported Inference Engines: 
+Supported Inference Engines, check this on set up your preferred choice - [Link](https://github.com/gigwegbe/langchain-academy-using-oss-models/blob/main/inference-engines.md) : 
 - Ollama 
 - vLLM 
 - SGLang 
