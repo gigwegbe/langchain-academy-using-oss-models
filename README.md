@@ -10,7 +10,7 @@ Supported Inference Engines:
 - vLLM 
 - SGLang 
 
-For the development environment and package management, I recommend using uv. It has a bit of a learning curve, but it’s proving to be more efficient and reliable than pip. Review the UV commands for starters[Link](https://github.com/gigwegbe/langchain-academy-using-oss-models/blob/main/uv-commands.md)
+For the development environment and package management, I recommend using uv. It has a bit of a learning curve, but it’s proving to be more efficient and reliable than pip. Review the UV commands for starters - [Link](https://github.com/gigwegbe/langchain-academy-using-oss-models/blob/main/uv-commands.md)
  
 
 Programs: 
