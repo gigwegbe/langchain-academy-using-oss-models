@@ -1,6 +1,6 @@
 - Create a project: 
 ```
-   uv init quickstart-langchain-essentials
+uv init quickstart-langchain-essentials
 ```
 Directory structure: 
 ```
