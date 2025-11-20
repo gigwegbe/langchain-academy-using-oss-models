@@ -25,3 +25,6 @@ Programs:
 
 
 ## Reference: 
+- [uv Cheatsheet and Hands-on Guide for Python Devs](https://blog.dailydoseofds.com/p/uv-cheatsheet-and-hands-on-guide)
+- [uv cheatsheet](https://www.brandonrohrer.com/uv_cheatsheet)
+- [uv cheatsheet](https://mathspp.com/blog/uv-cheatsheet)
