@@ -1,7 +1,7 @@
 - Create a project: 
-  ```
+```
    uv init quickstart-langchain-essentials
-  ```
+```
 Directory structure: 
 ```
 .
@@ -57,7 +57,7 @@ Directory structure:
 1 directory, 5 files
 ```
 
-Note that the virtual environment is already been created in the directory: 
+Note that the virtual environment has already been created in the directory: 
 ```
 george@Georges-MacBook-Pro quickstart-langchain-essentials % ls -la
 total 1280
@@ -107,3 +107,5 @@ charset-normalizer                       3.4.4
 click                                    8.3.1
 cloudpickle                              3.1.2
 ```
+
+That is all the command you need for now. More would be add if necessary. 
