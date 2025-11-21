@@ -110,4 +110,15 @@ click                                    8.3.1
 cloudpickle                              3.1.2
 ```
 
+Fun fact, your virtual environment might stop working one random day like today, my jupyter lab stopped working:
+Remove the current env:  
+```
+rm -rf .venv
+```
+Get a fresh one: 
+```
+uv sync
+```
+It is easy. 
+
 That is all the command you need for now. More would be add if necessary. 

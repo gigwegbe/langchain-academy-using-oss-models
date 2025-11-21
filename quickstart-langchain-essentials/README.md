@@ -46,8 +46,9 @@ Ollama environment variables:
 ```bash
 # Add OpenAI API key
 # OPENAI_API_KEY=your_openai_api_key_here
-OSS_MODEL="gpt-oss:20b"
-OLLAMA_BASE_URL="http://localhost:11434"
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=gpt-oss:20b
+OLLAMA_TEMPERATURE=0
 ```
 Others: 
 ```bash
