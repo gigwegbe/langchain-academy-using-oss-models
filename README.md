@@ -29,3 +29,5 @@ Programs:
 - [uv cheatsheet](https://www.brandonrohrer.com/uv_cheatsheet)
 - [uv cheatsheet](https://mathspp.com/blog/uv-cheatsheet)
 - [Build Your Own GPT-OSS Powered RAG App with vLLM and LangChain](https://www.davitmartirosyan.dev/Build-Your-Own-GPT-OSS-Powered-RAG-App-with-vLLM-and-LangChain-2a5bee6228ef80feb174c847f849303f)
+- [Getting Started with Inference Using vLLM](https://www.youtube.com/watch?v=yBsHJCHx1gg)
+- [Optimize LLM inference with vLLM](https://www.youtube.com/watch?v=lxjWiVuK5cA)
