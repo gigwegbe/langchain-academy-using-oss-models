@@ -134,3 +134,15 @@ Lessons 2–7 covered out-of-the-box features. However, `create_agent` also supp
 ## Issues
 - Use the chatOllama instead of LLMOllama 
 - Restart the jupyter server if you have any error that look like `WARNING:langsmith.client:Failed to multipart ingest runs:`
+- LangSmith now uses UUID issue:
+  ```
+  /Users/george/Documents/github/langchain-academy-using-oss-models/quickstart-langchain-essentials/.venv/lib/python3.11/site-packages/pydantic/v1/main.py:1054: UserWarning: LangSmith now uses UUID v7 for run and trace identifiers. This warning appears when passing custom IDs. Please use: from langsmith import uuid7
+            id = uuid7()
+Future versions will require UUID v7.
+  input_data = validator(cls_, input_data)
+  ```
+add the following: 
+```
+from langsmith import uuid7
+run_id = uuid7()  
+```
