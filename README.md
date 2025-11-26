@@ -14,7 +14,7 @@ For the development environment and package management, I recommend using uv. It
  
 
 Programs: 
-- [] Quickstart: LangChain Essentials - Python
+- [x] Quickstart: LangChain Essentials - Python
 - [] Quickstart: LangGraph Essential - Python 
 - [] Quickstart: LangSmith Essentials
 - [] Project: Deep Agents with LangGraph 
